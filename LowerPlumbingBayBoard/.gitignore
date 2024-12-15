@@ -1,6 +1,9 @@
 # Ignore Altium Designer history folder
 History/
 
+# Ignore Altium Previews folder
+_Previews/
+
 # Ignore other backup files
 *.PrjPCBStructure
 *.PrjPcbStructureBak
