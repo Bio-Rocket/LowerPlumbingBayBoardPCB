@@ -1,3 +1,6 @@
 [submodule "LowerPlumbingBayBoard/PCBDesignRules"]
 	path = LowerPlumbingBayBoard/PCBDesignRules
 	url = https://github.com/Bio-Rocket/PCBDesignRules.git
+[submodule "LowerPlumbingBayBoard/PCBLayerStackups"]
+	path = LowerPlumbingBayBoard/PCBLayerStackups
+	url = https://github.com/Bio-Rocket/PCBLayerStackups.git
