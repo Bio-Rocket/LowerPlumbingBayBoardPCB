@@ -4,3 +4,6 @@
 [submodule "LowerPlumbingBayBoard/PCBLayerStackups"]
 	path = LowerPlumbingBayBoard/PCBLayerStackups
 	url = https://github.com/Bio-Rocket/PCBLayerStackups.git
+[submodule "LowerPlumbingBayBoard/PCBLibraries"]
+	path = LowerPlumbingBayBoard/PCBLibraries
+	url = https://github.com/Bio-Rocket/PCBLibraries.git
