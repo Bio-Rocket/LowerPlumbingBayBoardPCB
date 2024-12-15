@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BVRSWIWY
 
 [Document2]
-DocumentPath=LowerPlumbingBayBoardPCB.PcbDoc
+DocumentPath=..\LowerPlumb\LowerPlumbingBayBoardPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HBVUGEQS
 
 [Document4]
 DocumentPath=PCBLibraries\BioRocketSchematics.schlib
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QTFIMCLM
 
 [Configuration1]
 Name=Sources
