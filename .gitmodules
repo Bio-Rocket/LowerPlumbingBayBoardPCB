@@ -1,3 +1,3 @@
-[submodule "LowerPlumb/PCBLibraries"]
-	path = LowerPlumb/PCBLibraries
+[submodule "LowerPlumbingBayBoard/PCBLibraries"]
+	path = LowerPlumbingBayBoard/PCBLibraries
 	url = https://github.com/Bio-Rocket/PCBLibraries.git
