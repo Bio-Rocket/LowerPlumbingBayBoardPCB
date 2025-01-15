@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BVRSWIWY
 
 [Document2]
-DocumentPath=..\LowerPlumb\LowerPlumbingBayBoardPCB.PcbDoc
+DocumentPath=LowerPlumbingBayBoardPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,6 +116,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTFIMCLM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LowerPlumbingBayBoard\Design Rule Check - LowerPlumbingBayBoardPCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
