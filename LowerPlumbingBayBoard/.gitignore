@@ -3,6 +3,7 @@ History/
 
 # Ignore Altium Previews folder
 _Previews/
+__Previews/
 
 # Ignore other backup files
 *.PrjPCBStructure
@@ -16,6 +17,10 @@ _Previews/
 *.outjob
 *.rpt
 *.log
+Project Outputs for LowerPlumbingBayBoard/
+*.x_t
+*.obj
+*.mtl
 
 # Ignore temporary Altium files
 *.ddb
